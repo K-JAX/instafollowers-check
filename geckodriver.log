@@ -1,0 +1,58 @@
+1600346240323	geckodriver	INFO	Listening on 127.0.0.1:38227
+1600346337208	geckodriver	INFO	Listening on 127.0.0.1:40133
+1600346397312	geckodriver	INFO	Listening on 127.0.0.1:48575
+1600346905723	geckodriver	INFO	Listening on 127.0.0.1:53675
+1600347056373	geckodriver	INFO	Listening on 127.0.0.1:58203
+1600347077394	geckodriver	INFO	Listening on 127.0.0.1:39869
+1600347259276	geckodriver	INFO	Listening on 127.0.0.1:56977
+1600347270349	geckodriver	INFO	Listening on 127.0.0.1:57883
+1600347294887	geckodriver	INFO	Listening on 127.0.0.1:48379
+1600347392191	geckodriver	INFO	Listening on 127.0.0.1:59645
+1600347399129	geckodriver	INFO	Listening on 127.0.0.1:54047
+1600347412394	geckodriver	INFO	Listening on 127.0.0.1:44639
+1600348196944	geckodriver	INFO	Listening on 127.0.0.1:48227
+1600348381610	geckodriver	INFO	Listening on 127.0.0.1:60745
+1600348914265	geckodriver	INFO	Listening on 127.0.0.1:50251
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by kjax.)
+1600349082688	geckodriver	INFO	Listening on 127.0.0.1:50387
+1600349116741	geckodriver	INFO	Listening on 127.0.0.1:55023
+1600349295843	geckodriver	INFO	Listening on 127.0.0.1:60577
+1600349469326	geckodriver	INFO	Listening on 127.0.0.1:45899
+1600349500745	geckodriver	INFO	Listening on 127.0.0.1:32981
+1600349554739	geckodriver	INFO	Listening on 127.0.0.1:55751
+1600350077735	geckodriver	INFO	Listening on 127.0.0.1:42609
+1600350142194	geckodriver	INFO	Listening on 127.0.0.1:45237
+1600352020488	geckodriver	INFO	Listening on 127.0.0.1:44117
+1600352748960	geckodriver	INFO	Listening on 127.0.0.1:36675
+1600353165932	geckodriver	INFO	Listening on 127.0.0.1:55923
+1600353718326	geckodriver	INFO	Listening on 127.0.0.1:34983
+1600355041713	geckodriver	INFO	Listening on 127.0.0.1:52197
+1600355915270	geckodriver	INFO	Listening on 127.0.0.1:47109
+1600356635276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Kq8Xr7lzEwXi"
+1600356637547	Marionette	INFO	Listening on port 42959
+1600356637595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1600356644627	Marionette	INFO	Stopped listening on port 42959
+1600356653043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MSRtCZAOQ1bX"
+1600356655261	Marionette	INFO	Listening on port 32951
+1600356655367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1600357076145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MF2JCWGTIdBY"
+1600357078610	Marionette	INFO	Listening on port 41497
+1600357078659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1600357086014	Marionette	INFO	Stopped listening on port 41497
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 560"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 560, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 394: TypeError: this.ownerNode is null
+JavaScript error: resource://devtools/server/actors/stylesheets.js, line 394: TypeError: this.ownerNode is null
+1600357699304	Marionette	INFO	Stopped listening on port 32951
+1614445773973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IboWawmbTqor"
+1614445776295	Marionette	INFO	Listening on port 41365
+1614445776438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1614445802446	Marionette	INFO	Stopped listening on port 41365
